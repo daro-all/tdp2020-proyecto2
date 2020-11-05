@@ -21,3 +21,5 @@ CAMBIOS PRINCIPALES PARA ESTA 2º VERSIÓN:
 - Ahora la ventana de juego puede cerrarse pulsando la tecla ESC.
 
 - Ante fallos en los archivos de texto que contienen juegos, se comporta correctamente.
+
+- El primer commit no pude subirlo desde consola por un error que no logré entender. Con el segundo commit pasó lo mismo, por lo que opté por crear otro repositorio y subir este commit ahí.
